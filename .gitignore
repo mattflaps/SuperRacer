@@ -1,8 +1,4 @@
  saved_variables.cfg
  adxl_results/belts/*.csv
  adxl_results/vibrations/*.tar.gz
- autocommit.sh
- .moonraker.conf.bkp
- .gitignore
- moonraker.conf
  varibles.cfg
